@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>RainnySheep</title>
+</head>
+
+<body>
+<h1>Photography</h1>
+</body>
+
+</html>
